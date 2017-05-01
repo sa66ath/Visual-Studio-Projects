@@ -4,7 +4,7 @@
 //
 // Category     : VST 2.x SDK Samples
 // Filename     : fx.h
-// Created by   : ikeda@roland.co.jp BOSS Corporation
+// Created by   : ikeda@***.co.jp *** Corporation
 // Description  : FX Experimental.
 // Modified from : again.h, Steinberg VST SDK Sample
 //-------------------------------------------------------------------------------------------------------

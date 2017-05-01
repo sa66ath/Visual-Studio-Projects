@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------------
 	parameter.cpp: VST Plug-in User parameter 
-						ikeda@roland.co.jp
+						ikeda@***.co.jp
 ------------------------------------------------------------------------------*/
 #include "public.sdk/source/vst2.x/audioeffectx.h"
 #include "fx.h"

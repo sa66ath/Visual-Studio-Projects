@@ -17,7 +17,7 @@
 
 
 //-------------------------------------------------------------------------------------------------------
-const char kVendorString[] = "ikeda@roland.co.jp BOSS Corporation";
+const char kVendorString[] = "ikeda@***.co.jp *** Corporation";
 const char kProductString[] = "Ikeda's Filter";
 const char kEffectName[] = "Filter";
 

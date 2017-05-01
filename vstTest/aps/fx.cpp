@@ -4,7 +4,7 @@
 //
 // Category     : VST 2.x SDK Samples
 // Filename     : fx.cpp
-// Created by   : ikeda@roland.co.jp BOSS Corporation
+// Created by   : ikeda@***.co.jp *** Corporation
 // Description  : FX Experimental.
 // Modified from : again.cpp, Steinberg VST SDK Sample
 //
@@ -17,7 +17,7 @@
 
 
 //-------------------------------------------------------------------------------------------------------
-const char kVendorString[] = "ikeda@roland.co.jp BOSS Corporation";
+const char kVendorString[] = "ikeda@***.co.jp *** Corporation";
 const char kProductString[] = "Ikeda's PS";
 const char kEffectName[] = "Pitch Shifter";
 
